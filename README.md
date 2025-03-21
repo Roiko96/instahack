@@ -6,4 +6,4 @@ put YOUR password/s HERE and save the file without any neccesery words JUST your
 put here all the pass your remember and run it to find your pass . 
 hope thats help .
 thank you !
-*star/rate me if you want :)*
+**star/rate me if you want :)**
